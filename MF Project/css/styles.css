@@ -1,0 +1,26 @@
+.header, p {
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Noto Serif Telugu", serif;
+}/*# sourceMappingURL=styles.css.map */
+
+.products1{
+  padding-top:50px;
+  display:inline-flex;
+  gap:.5rem;
+  }
+  .box{
+    padding-left: 225px;
+  }
+
+  .box2{
+    padding-left: 245px;
+  }
+  .products2{
+      padding-top: 50px;
+      display: flex;
+      gap: .5rem;
+  }
+  
+  img{
+      border-radius: 15%;
+  }
